@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "email": "mango@gmail.com"
+    },
+    {
+      "email": "aaaa@gmail.com",
+      "name": "ANNA",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "AAA",
+      "email": "aaa@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Bbbb",
+      "email": "bbbb@gmail.com"
+    },
+    {
+      "title": "annador@ukr.net",
+      "taskPoints": 5,
+      "id": 5
+    },
+    {
+      "title": "annador@ukr.net",
+      "taskPoints": 5,
+      "id": 6
+    },
+    {
+      "email": "annador@ukr.net",
+      "name": "ANNA",
+      "id": 8
+    }
+  ]
+}
